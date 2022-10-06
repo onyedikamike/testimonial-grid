@@ -39,13 +39,11 @@
 .daniel_card {
   background-color: var(--Moderate-violet);
   border-radius: 1rem;
-  /* margin: 2rem; */
   color: var(--White);
   padding: 1.5rem;
   background-image: url(./images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: 95% 0;
-  /* padding-top: 2rem; */
 }
 .daniel_image {
   border-radius: 50%;
