@@ -19,24 +19,18 @@
 
 .main_container {
   font-size: 13px;
-  /* line-height: 1.7; */
-  /* font-family: var(--barlow-font); */
   background-color: var(--Light-gray);
-  /* margin-top: 2rem; */
   height: 100%;
 }
 
 .testimonials {
   font-family: var(--barlow-font);
-  /* margin-top: 2rem; */
   padding: 1rem;
-  /* margin: 1rem; */
   height: 100%;
 }
 
 .daniel_header {
   display: flex;
-  /* border: 3px solid var(--Moderate-violet); */
 }
 .daniel_header p {
   color: var(--Light-violet);
@@ -74,7 +68,6 @@
 
 .jonathan_card {
   border-radius: 1rem;
-  /* margin: 2rem; */
   color: var(--White);
   padding: 1.5rem;
   background-color: var(--Very-dark-blackish-blue);
@@ -108,7 +101,6 @@
 }
 .jeanette_card {
   border-radius: 1rem;
-  /* margin: 2rem; */
   color: var(--Very-dark-grayish-blue);
   padding: 1.5rem;
   background-color: var(--White);
@@ -142,7 +134,6 @@
 }
 .patrick_card {
   border-radius: 1rem;
-  /* margin: 2rem; */
   color: var(--White);
   padding: 1.5rem;
   background-color: var(--Very-dark-blackish-blue);
@@ -176,7 +167,6 @@
 }
 .kira_card {
   border-radius: 1rem;
-  /* margin: 2rem; */
   color: var(--Very-dark-blackish-blue);
   padding: 1.5rem;
   background-color: var(--White);
