@@ -1,6 +1,7 @@
-# Front-end Style Guide
 
-## Layout
+
+## PROJECT NAME
+Testimonials-Grid
 
 The designs were created to the following widths:
 
